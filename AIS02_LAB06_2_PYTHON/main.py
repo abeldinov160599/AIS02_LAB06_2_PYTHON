@@ -168,6 +168,6 @@ t.forward(25)
 
 t.up()
 t.goto(250,250)
-t.down
+t.down()
 
 turtle.done()
